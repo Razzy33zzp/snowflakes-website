@@ -47,6 +47,11 @@ body {
 .snowflake:nth-child(8) { left: 80%; animation-duration: 8s; }
 .snowflake:nth-child(9) { left: 90%; animation-duration: 5s; }
 .snowflake:nth-child(10) { left: 95%; animation-duration: 7s; }
+.snowflake:nth-child(11) { left: 15%; animation-duration: 6s; }
+.snowflake:nth-child(12) { left: 25%; animation-duration: 5s; }
+.snowflake:nth-child(13) { left: 35%; animation-duration: 7s; }
+.snowflake:nth-child(14) { left: 45%; animation-duration: 6s; }
+.snowflake:nth-child(15) { left: 55%; animation-duration: 8s; }
 
 .container {
     position: relative;
